@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:88C0D0,100:5E81AC&height=220&section=header&text=Hi%20There,%20I'm%20Chetan%20Lohia%20%F0%9F%91%8B&fontSize=36&fontColor=ECEFF4&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20in%20the%20Making%20%7C%20CSE-AI%2FML%20Undergrad&descAlignY=52&descSize=18&descColor=ECEFF4" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=750&lines=Building+End-to-End+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Multimodal+LLMs;Turning+ML+Research+into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=750&lines=Building+End-to-End+Intelligent+Systems+%F0%9F%A4%96;AI/ML+%7C+GenAI+%7C+Computer+Vision+%7C+Multimodal+LLMs;Turning+ML+Research+into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
