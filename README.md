@@ -1,11 +1,8 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E3440,100:5E81AC&height=160&section=header&text=Hi%20,%20I'm%20Chetan%20%F0%9F%91%8B&fontSize=36&fontColor=ECEFF4&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20in%20the%20Making%20%7C%20CSE-AI%2FML%20Undergrad&descAlignY=52&descSize=18&descColor=ECEFF4" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=750&lines=Building+End-to-End+Intelligent+Systems+%F0%9F%A4%96;AI%2FML+%7C+GenAI+%7C+Computer+Vision+%7C+Multimodal+LLMs;Turning+ML+Research+into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" /> <br>
-
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E3440,100:5E81AC&height=160&section=header&text=Hi%20,%20I'm%20Chetan%20%F0%9F%91%8B&fontSize=36&fontColor=ECEFF4&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20in%20the%20Making%20%7C%20CSE-AI%2FML%20Undergrad&descAlignY=52&descSize=18&descColor=ECEFF4" width="100%"/> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=750&lines=Building+End-to-End+Intelligent+Systems+%F0%9F%A4%96;AI%2FML+%7C+GenAI+%7C+Computer+Vision+%7C+Multimodal+LLMs;Turning+ML+Research+into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" /> <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:A3BE8C&height=25&animation=fadeIn" width="100%"/> </div>
-
 <br>
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_chetanlohia_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clohia)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetan.lohia2073@gmail.com)
