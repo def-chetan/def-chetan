@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=750&lines=Building+End-to-End+Intelligent+Systems+%F0%9F%A4%96;AI%2FML+%7C+GenAI+%7C+Computer+Vision+%7C+Multimodal+LLMs;Turning+ML+Research+into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_chetanlohia_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clohia)
@@ -100,8 +99,6 @@ Facial-auth + geo-verified attendance platform (OpenCV + DeepFace/ArcFace) with 
 </picture>
 
 </div>
-
-> ⚙️ This one needs a one-time setup — see the note below the file list in chat.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF616A,100:B48EAD&height=25&animation=fadeIn" width="100%"/>
 
