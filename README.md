@@ -115,10 +115,9 @@ Facial-auth + geo-verified attendance platform (OpenCV + DeepFace/ArcFace) with 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=88C0D0&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by%21+%E2%9C%A8;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Footer Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:5E81AC,100:88C0D0&height=100&section=footer&reversed=true&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:5E81AC,100:88C0D0&height=10&section=footer&reversed=true&animation=fadeIn" width="100%"/>
 
 [![](https://komarev.com/ghpvc/?username=def-chetan&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<sub>Proudly created with GPRM ( https://gprm.itsvg.in )</sub>
 
 </div>
