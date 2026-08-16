@@ -86,7 +86,7 @@
 <text x="266" y="145" font-family="'Fira Code', monospace" font-weight="700" font-size="30" fill="#9CA3AF">&gt;&gt;&gt; <tspan fill="url(#textGrad)">Chetan Lohia</tspan></text>
 </g>
 <g mask="url(#tagReveal)">
-<text x="266" y="175" font-family="'Fira Code', monospace" font-size="13" fill="#9CA3AF">AI/ML Engineer in the making&#8226; Building end-to-end intelligent systems</text>
+<text x="266" y="175" font-family="'Fira Code', monospace" font-size="13" fill="#9CA3AF">AI/ML Engineer in the making &#8226; Building end-to-end intelligent systems</text>
 </g>
 <rect x="580" y="82" width="4" height="22" fill="#64FFDA"><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.16;0.17;0.18;0.19;0.20;1" dur="10s" repeatCount="indefinite"/></rect>
 <rect x="580" y="118" width="4" height="34" fill="#B388FF"><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.36;0.37;0.38;0.39;0.40;1" dur="10s" repeatCount="indefinite"/></rect>
