@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/bannner.svg" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=750&lines=Building+End-to-End+Intelligent+Systems+%F0%9F%A4%96;AI%2FML+%7C+GenAI+%7C+Computer+Vision+%7C+Multimodal+LLMs;Turning+ML+Research+into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-> AI/ML Engineer in the making & CSEAI/ML undergrad, passionate about building end-to-end intelligent systems and transforming machine learning concepts into scalable, real-world solutions.
+> AI/ML Engineer in the making & CSE AI/ML undergrad, passionate about building end-to-end intelligent systems and transforming machine learning concepts into scalable, real-world solutions.
 >
 > 🤝 **Looking to collaborate on:** Open-source AI initiatives, innovative deep learning applications, and scalable machine learning pipelines.
 >
