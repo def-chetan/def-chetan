@@ -1,4 +1,4 @@
-<svg width="100%" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img"><title>Advanced animated terminal-style AI profile banner</title><desc>A dark glassmorphic terminal window floating over a starfield and neural-network scene, typing "$ whoami" and revealing the name Chetan Lohia in a cyan-violet-pink gradient, with a pulsing online indicator in the title bar, flanked by two neural network clusters with traveling signal pulses in matching colors.</desc>
+<svg width="100%" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img"><title>Advanced animated terminal banner with sequential typing</title><desc>A dark glassmorphic terminal window where three lines type in one after another: a python import joke command, the gradient name Chetan Lohia, and a tagline, each with its own tracking cursor, over a starfield and neural-network scene.</desc>
 <defs>
 <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0B0D16"/><stop offset="50%" stop-color="#12141F"/><stop offset="100%" stop-color="#171A2B"/></linearGradient>
 <radialGradient id="nebulaViolet" cx="25%" cy="30%" r="55%"><stop offset="0%" stop-color="#B388FF" stop-opacity="0.16"/><stop offset="100%" stop-color="#B388FF" stop-opacity="0"/></radialGradient>
@@ -8,7 +8,9 @@
 <pattern id="hexGrid" width="34" height="30" patternUnits="userSpaceOnUse"><path d="M17,0 L34,8.5 L34,21.5 L17,30 L0,21.5 L0,8.5 Z" fill="none" stroke="#232640" stroke-width="0.5"/></pattern>
 <filter id="glowSoft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <filter id="shadowBlur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="10"/></filter>
-<mask id="promptReveal"><rect x="266" y="80" width="0" height="26" fill="#fff"><animate attributeName="width" values="0;190;190;0" keyTimes="0;0.15;0.85;1" dur="8s" repeatCount="indefinite"/></rect></mask>
+<mask id="cmdReveal"><rect x="266" y="80" width="0" height="26" fill="#fff"><animate attributeName="width" values="0;320;320;0" keyTimes="0;0.18;0.85;1" dur="10s" repeatCount="indefinite"/></rect></mask>
+<mask id="nameReveal"><rect x="266" y="118" width="0" height="36" fill="#fff"><animate attributeName="width" values="0;0;310;310;0" keyTimes="0;0.20;0.38;0.85;1" dur="10s" repeatCount="indefinite"/></rect></mask>
+<mask id="tagReveal"><rect x="266" y="160" width="0" height="22" fill="#fff"><animate attributeName="width" values="0;0;480;480;0" keyTimes="0;0.40;0.52;0.85;1" dur="10s" repeatCount="indefinite"/></rect></mask>
 <clipPath id="roundedClip"><rect x="0" y="0" width="1200" height="220" rx="40"/></clipPath>
 </defs>
 <g clip-path="url(#roundedClip)">
@@ -74,15 +76,21 @@
 <circle cx="266" cy="53" r="5" fill="#FF5F56"/>
 <circle cx="283" cy="53" r="5" fill="#FFBD2E"/>
 <circle cx="300" cy="53" r="5" fill="#27C93F"/>
-<text x="600" y="57" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" fill="#9CA3AF" opacity="0.6">chetan@experiment-lab:~</text>
+<text x="600" y="57" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" fill="#9CA3AF" opacity="0.6">chetan@ai-engineer:~</text>
 <circle cx="905" cy="53" r="4" fill="#27C93F"><animate attributeName="opacity" values="0.4;1;0.4" dur="1.6s" repeatCount="indefinite"/></circle>
 <text x="915" y="57" font-family="'Fira Code', monospace" font-size="10" fill="#9CA3AF" opacity="0.7">online</text>
-<g mask="url(#promptReveal)">
-<text x="266" y="98" font-family="'Fira Code', monospace" font-size="18" fill="#E4E4E7"><tspan fill="#64FFDA">$</tspan> Hi, I am</text>
+<g mask="url(#cmdReveal)">
+<text x="266" y="98" font-family="'Fira Code', monospace" font-size="18" fill="#E4E4E7"><tspan fill="#64FFDA">$</tspan> python3 -c "introduce"</text>
 </g>
-<text x="266" y="145" font-family="'Fira Code', monospace" font-weight="700" font-size="30" fill="#9CA3AF" opacity="0">&gt; <tspan fill="url(#textGrad)">Chetan Lohia</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.18;0.32;0.85;1" dur="8s" repeatCount="indefinite"/></text>
-<rect x="522" y="118" width="5" height="32" fill="#B388FF"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
-<text x="266" y="175" font-family="'Fira Code', monospace" font-size="13" fill="#9CA3AF" opacity="0">AI/ML Engineer in the making&#8226; Building end-to-end intelligent systems<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.34;0.46;0.85;1" dur="8s" repeatCount="indefinite"/></text>
+<g mask="url(#nameReveal)">
+<text x="266" y="145" font-family="'Fira Code', monospace" font-weight="700" font-size="30" fill="#9CA3AF">&gt;&gt;&gt; <tspan fill="url(#textGrad)">Chetan Lohia</tspan></text>
+</g>
+<g mask="url(#tagReveal)">
+<text x="266" y="175" font-family="'Fira Code', monospace" font-size="13" fill="#9CA3AF">AI/ML Engineer in the making&#8226; Building end-to-end intelligent systems</text>
+</g>
+<rect x="580" y="82" width="4" height="22" fill="#64FFDA"><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.16;0.17;0.18;0.19;0.20;1" dur="10s" repeatCount="indefinite"/></rect>
+<rect x="580" y="118" width="4" height="34" fill="#B388FF"><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.36;0.37;0.38;0.39;0.40;1" dur="10s" repeatCount="indefinite"/></rect>
+<rect x="750" y="161" width="4" height="18" fill="#FF6B9D"><animate attributeName="opacity" values="0;0;1;0;1;0;1;0;1;0;1;0;1;0;0" keyTimes="0;0.50;0.53;0.56;0.59;0.62;0.65;0.68;0.71;0.74;0.77;0.80;0.83;0.85;1" dur="10s" repeatCount="indefinite"/></rect>
 <g font-family="'Fira Code', monospace" font-size="11" fill="#2E3348" opacity="0.35">
 <text x="0" y="207">01001 11010 00110 10101 11001 00011 10110 01010 11100 00101 10011 01110 01001 11010 00110</text>
 <text x="900" y="207">01001 11010 00110 10101 11001 00011 10110 01010 11100 00101 10011 01110 01001 11010 00110</text>
